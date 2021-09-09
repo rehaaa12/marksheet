@@ -1,0 +1,21 @@
+void main() {
+ 
+  
+ int isl=50;
+  int eng=25;
+  int urdu=50;
+  int total_marks=300;
+  int total_number=isl+eng+urdu;
+   double percentge=(total_number*100)/total_marks;
+ 
+  
+ print("your islamit marks is ${isl}");
+   print("your islamit marks is ${eng}");
+   print("your islamit marks is ${urdu}");
+  print("your total marlks is ${total_number}");
+   print("your total marlks is ${percentge}");
+
+    
+ 
+  
+  
